@@ -6,23 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
 <title>Bookify Privacy Policy</title>
-<style>
-  /* Bookify tokens: paper, ink, ink-muted, line, marigold-ink (Day / Late night) */
-  :root { --paper: #fbf6ec; --paper-raised: #ffffff; --line: #e6ddcb; --ink: #1c2230; --ink-muted: #5a6070; --marigold-ink: #9a5b00; }
-  @media (prefers-color-scheme: dark) {
-    :root { --paper: #16181d; --paper-raised: #1f2229; --line: #2e323b; --ink: #f2ecdf; --ink-muted: #a9aeb9; --marigold-ink: #f5b04a; }
-  }
-  /* No web fonts are loaded, so this page makes no third-party requests. */
-  body { margin: 0; background: var(--paper); color: var(--ink);
-         font: 17px/1.6 "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif; }
-  main { max-width: 680px; margin: 0 auto; padding: 40px 16px 64px; }
-  h1 { font: 600 34px/1.15 Fraunces, Georgia, "Iowan Old Style", serif; letter-spacing: -0.5px; margin: 0 0 4px; }
-  h2 { font: 700 19px/1.3 "Atkinson Hyperlegible", -apple-system, system-ui, sans-serif; margin: 32px 0 4px; }
-  .muted { color: var(--ink-muted); }
-  .summary { background: var(--paper-raised); border: 1px solid var(--line); border-radius: 16px; padding: 16px; margin: 24px 0 8px; }
-  a { color: var(--marigold-ink); }
-  a:focus-visible { outline: 2px solid var(--marigold-ink); outline-offset: 2px; }
-</style>
+
 </head>
 <body>
 <main>
